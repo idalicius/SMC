@@ -1,4 +1,4 @@
-<?php require_once('../Connections/residencia.php'); ?>
+<?php require_once('./Connections/residencia.php'); ?>
 <?php
 // *** Validate request to login to this site.
 session_start();
