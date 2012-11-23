@@ -1,118 +1,327 @@
-<html>
+<!doctype html>
+<html lang="en">
 
 <head>
-<meta http-equiv="Content-Type"
-content="text/html; charset=iso-8859-1">
-<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
-<title>CATASTRO</title>
-<style type="text/css">
-<!--
-.Estilo1 {	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-}
-.Estilo4 {color: #FFFFFF}
-.Estilo5 {color: #990099}
-.Estilo6 {color: #FF0000}
-.Estilo11 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-}
--->
-</style>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-//-->
+	<meta charset="utf-8"/>
+	<title>Dashboard I Admin Panel</title>
+	
+	<link rel="stylesheet" href="css/layout.css" type="text/css" media="screen" />
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="js/jquery-1.5.2.min.js" type="text/javascript"></script>
+	<script src="js/hideshow.js" type="text/javascript"></script>
+	<script src="js/jquery.tablesorter.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/jquery.equalHeight.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() 
+    	{ 
+      	  $(".tablesorter").tablesorter(); 
+   	 } 
+	);
+	$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+    </script>
+    <script type="text/javascript">
+    $(function(){
+        $('.column').equalHeight();
+    });
 </script>
+
 </head>
 
-<body bgcolor="#000000">
-<div align="center"><center>
 
-<table border="0" cellpadding="0" cellspacing="0" width="807">
-    <tr>
-        <td><h2 align="center"><span class="Estilo5"><strong><strong>
-          <marquee>
-          <span class="Estilo6">&quot;SISTEMA DE MANEJO CATASTRAL&quot; </span>
-          </marquee>
-          <strong><strong><strong><strong><strong><strong><strong><strong><strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong></strong></strong></strong></strong></strong></span></h2>
-          <div align="center" class="Estilo6">
-            <h4 align="center"><span class="Estilo1"> DIRECCI&Oacute;N DE CATASTRO MUNICIPAL </span></h4>
-          </div>
-        <p align="center" class="Estilo6">BENITO JUAREZ S/N COL. CENTRO JES&Uacute;S CARRANZA,VER. </p>          </td>
-      </tr>
-    <tr>
-        <td height="553"><div align="center"><center><table border="0"
-        cellpadding="0" cellspacing="0" width="100%">
-            <tr>
-                <td width="100" height="545" valign="top"><div align="center"><center><table
-                border="1" cellpadding="0" cellspacing="0"
-                width="148" bordercolor="#808080">
-                    <tr>
-                        <td width="145" bgcolor="#808080"><p align="center"><font
-                        color="#FFFFFF" size="4">INICIO</font></p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><p align="center" class="Estilo4">&nbsp;</p>
-                          <p align="center" class="Estilo4">
-                            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="107" height="18">
-                              <param name="movie" value="button1.swf">
-                              <param name="quality" value="high">
-                              <param name="bgcolor" value="#000000">
-                              <embed src="button1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="107" height="18" bgcolor="#000000"></embed>
-                            </object>
-                          </p>
-                          <p align="center" class="Estilo4"><img src="Ball-05.gif" width="73" height="73"></p>                          
-                          <p align="center">&nbsp;</p>
-                          </td>
-                    </tr>
-                    <tr>
-                        <td height="329"><img src="Captura3.PNG" width="140" height="67">
-                          <div id="Layer1" style="position:absolute; width:78px; height:51px; z-index:1; left: 263px; top: 548px;"><img src="bandera_animada_Mexico.gif" width="64" height="39"></div>                          
-                          <p>&nbsp;</p>                          </td>
-                    </tr>
-                </table>
-                </center></div></td>
-                <td valign="top"><p align="center">&nbsp;</p>
-                  <p align="center"><img src="loho.gif" width="434" height="443"></p>
-                  <p align="center"><font color="#FFFFFF" size="2"><a href="acercade.php">Copyright
-                    2012 - SALOMON MEJIA CORONA. DERECHOS RESERVADOS.</a></font></p>
-                  </td>
-                <td valign="top" width="100"><div align="center"><center><table
-                border="1" cellpadding="0" cellspacing="0"
-                width="115" bordercolor="#808080">
-                    <tr>
-                        <td bgcolor="#808080"><p align="center"><font
-                        color="#FFFFFF" size="4"><strong>&iquest;QUE ES CATASTRO?</strong></font></p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td bordercolor="#000000"><p align="justify" class="Estilo4">Censo descriptivo de los bienes inmuebles ubicados en cada municipio del estado. As&iacute; como el conjunto de operaciones t&eacute;cnicas que determinan las dimensiones, calidad y valor de los predios y de las construcciones. </p>                        </td>
-                    </tr>
-                    <tr>
-                        <td bgcolor="#808080"><p align="center">&nbsp;</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                        <td height="267"><p><img src="Captura2.PNG" width="145" height="75"></p>
-                          <p>&nbsp;</p>                          </td>
-                    </tr>
-                </table>
-                </center></div></td>
-            </tr>
-        </table>
-        </center></div></td>
-      </tr>
-</table>
-</center></div>
+<body>
+
+	<header id="header">
+		<hgroup>
+			<h1 class="site_title"><a href="index.html">Website Admin</a></h1>
+			<h2 class="section_title">Dashboard</h2><div class="btn_view_site"><a href="http://www.medialoot.com">View Site</a></div>
+		</hgroup>
+	</header> <!-- end of header bar -->
+	
+	<section id="secondary_bar">
+		<div class="user">
+			<p>John Doe (<a href="#">3 Messages</a>)</p>
+			<!-- <a class="logout_user" href="#" title="Logout">Logout</a> -->
+		</div>
+		<div class="breadcrumbs_container">
+			<article class="breadcrumbs"><a href="index.html">Website Admin</a> <div class="breadcrumb_divider"></div> <a class="current">Dashboard</a></article>
+		</div>
+	</section><!-- end of secondary bar -->
+	
+	<aside id="sidebar" class="column">
+		<form class="quick_search">
+			<input type="text" value="Quick Search" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+		</form>
+		<hr/>
+		<h3>Content</h3>
+		<ul class="toggle">
+			<li class="icn_new_article"><a href="#">New Article</a></li>
+			<li class="icn_edit_article"><a href="#">Edit Articles</a></li>
+			<li class="icn_categories"><a href="#">Categories</a></li>
+			<li class="icn_tags"><a href="#">Tags</a></li>
+		</ul>
+		<h3>Users</h3>
+		<ul class="toggle">
+			<li class="icn_add_user"><a href="#">Add New User</a></li>
+			<li class="icn_view_users"><a href="#">View Users</a></li>
+			<li class="icn_profile"><a href="#">Your Profile</a></li>
+		</ul>
+		<h3>Media</h3>
+		<ul class="toggle">
+			<li class="icn_folder"><a href="#">File Manager</a></li>
+			<li class="icn_photo"><a href="#">Gallery</a></li>
+			<li class="icn_audio"><a href="#">Audio</a></li>
+			<li class="icn_video"><a href="#">Video</a></li>
+		</ul>
+		<h3>Admin</h3>
+		<ul class="toggle">
+			<li class="icn_settings"><a href="#">Options</a></li>
+			<li class="icn_security"><a href="#">Security</a></li>
+			<li class="icn_jump_back"><a href="#">Logout</a></li>
+		</ul>
+		
+		<footer>
+			<hr />
+			<p><strong>Copyright &copy; 2011 Website Admin</strong></p>
+			<p>Theme by <a href="http://www.medialoot.com">MediaLoot</a></p>
+		</footer>
+	</aside><!-- end of sidebar -->
+	
+	<section id="main" class="column">
+		
+		<h4 class="alert_info">Welcome to the free MediaLoot admin panel template, this could be an informative message.</h4>
+		
+		<article class="module width_full">
+			<header><h3>Stats</h3></header>
+			<div class="module_content">
+				<article class="stats_graph">
+					<img src="http://chart.apis.google.com/chart?chxr=0,0,3000&chxt=y&chs=520x140&cht=lc&chco=76A4FB,80C65A&chd=s:Tdjpsvyvttmiihgmnrst,OTbdcfhhggcTUTTUadfk&chls=2|2&chma=40,20,20,30" width="520" height="140" alt="" />
+				</article>
+				
+				<article class="stats_overview">
+					<div class="overview_today">
+						<p class="overview_day">Today</p>
+						<p class="overview_count">1,876</p>
+						<p class="overview_type">Hits</p>
+						<p class="overview_count">2,103</p>
+						<p class="overview_type">Views</p>
+					</div>
+					<div class="overview_previous">
+						<p class="overview_day">Yesterday</p>
+						<p class="overview_count">1,646</p>
+						<p class="overview_type">Hits</p>
+						<p class="overview_count">2,054</p>
+						<p class="overview_type">Views</p>
+					</div>
+				</article>
+				<div class="clear"></div>
+			</div>
+		</article><!-- end of stats article -->
+		
+		<article class="module width_3_quarter">
+		<header><h3 class="tabs_involved">Content Manager</h3>
+		<ul class="tabs">
+   			<li><a href="#tab1">Posts</a></li>
+    		<li><a href="#tab2">Comments</a></li>
+		</ul>
+		</header>
+
+		<div class="tab_container">
+			<div id="tab1" class="tab_content">
+			<table class="tablesorter" cellspacing="0"> 
+			<thead> 
+				<tr> 
+   					<th></th> 
+    				<th>Entry Name</th> 
+    				<th>Category</th> 
+    				<th>Created On</th> 
+    				<th>Actions</th> 
+				</tr> 
+			</thead> 
+			<tbody> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Lorem Ipsum Dolor Sit Amet</td> 
+    				<td>Articles</td> 
+    				<td>5th April 2011</td> 
+    				<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Ipsum Lorem Dolor Sit Amet</td> 
+    				<td>Freebies</td> 
+    				<td>6th April 2011</td> 
+   				 	<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr>
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Sit Amet Dolor Ipsum</td> 
+    				<td>Tutorials</td> 
+    				<td>10th April 2011</td> 
+    				<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Dolor Lorem Amet</td> 
+    				<td>Articles</td> 
+    				<td>16th April 2011</td> 
+   				 	<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr>
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Dolor Lorem Amet</td> 
+    				<td>Articles</td> 
+    				<td>16th April 2011</td> 
+   				 	<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr>  
+			</tbody> 
+			</table>
+			</div><!-- end of #tab1 -->
+			
+			<div id="tab2" class="tab_content">
+			<table class="tablesorter" cellspacing="0"> 
+			<thead> 
+				<tr> 
+   					<th></th> 
+    				<th>Comment</th> 
+    				<th>Posted by</th> 
+    				<th>Posted On</th> 
+    				<th>Actions</th> 
+				</tr> 
+			</thead> 
+			<tbody> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Lorem Ipsum Dolor Sit Amet</td> 
+    				<td>Mark Corrigan</td> 
+    				<td>5th April 2011</td> 
+    				<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Ipsum Lorem Dolor Sit Amet</td> 
+    				<td>Jeremy Usbourne</td> 
+    				<td>6th April 2011</td> 
+   				 	<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr>
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Sit Amet Dolor Ipsum</td> 
+    				<td>Super Hans</td> 
+    				<td>10th April 2011</td> 
+    				<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Dolor Lorem Amet</td> 
+    				<td>Alan Johnson</td> 
+    				<td>16th April 2011</td> 
+   				 	<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr> 
+				<tr> 
+   					<td><input type="checkbox"></td> 
+    				<td>Dolor Lorem Amet</td> 
+    				<td>Dobby</td> 
+    				<td>16th April 2011</td> 
+   				 	<td><input type="image" src="images/icn_edit.png" title="Edit"><input type="image" src="images/icn_trash.png" title="Trash"></td> 
+				</tr> 
+			</tbody> 
+			</table>
+
+			</div><!-- end of #tab2 -->
+			
+		</div><!-- end of .tab_container -->
+		
+		</article><!-- end of content manager article -->
+		
+		<article class="module width_quarter">
+			<header><h3>Messages</h3></header>
+			<div class="message_list">
+				<div class="module_content">
+					<div class="message"><p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor.</p>
+					<p><strong>John Doe</strong></p></div>
+					<div class="message"><p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor.</p>
+					<p><strong>John Doe</strong></p></div>
+					<div class="message"><p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor.</p>
+					<p><strong>John Doe</strong></p></div>
+					<div class="message"><p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor.</p>
+					<p><strong>John Doe</strong></p></div>
+					<div class="message"><p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor.</p>
+					<p><strong>John Doe</strong></p></div>
+				</div>
+			</div>
+			<footer>
+				<form class="post_message">
+					<input type="text" value="Message" onfocus="if(!this._haschanged){this.value=''};this._haschanged=true;">
+					<input type="submit" class="btn_post_message" value=""/>
+				</form>
+			</footer>
+		</article><!-- end of messages article -->
+		
+		<div class="clear"></div>
+		
+		<article class="module width_full">
+			<header><h3>Post New Article</h3></header>
+				<div class="module_content">
+						<fieldset>
+							<label>Post Title</label>
+							<input type="text">
+						</fieldset>
+						<fieldset>
+							<label>Content</label>
+							<textarea rows="12"></textarea>
+						</fieldset>
+						<fieldset style="width:48%; float:left; margin-right: 3%;"> <!-- to make two field float next to one another, adjust values accordingly -->
+							<label>Category</label>
+							<select style="width:92%;">
+								<option>Articles</option>
+								<option>Tutorials</option>
+								<option>Freebies</option>
+							</select>
+						</fieldset>
+						<fieldset style="width:48%; float:left;"> <!-- to make two field float next to one another, adjust values accordingly -->
+							<label>Tags</label>
+							<input type="text" style="width:92%;">
+						</fieldset><div class="clear"></div>
+				</div>
+			<footer>
+				<div class="submit_link">
+					<select>
+						<option>Draft</option>
+						<option>Published</option>
+					</select>
+					<input type="submit" value="Publish" class="alt_btn">
+					<input type="submit" value="Reset">
+				</div>
+			</footer>
+		</article><!-- end of post new article -->
+		
+
+		<div class="spacer"></div>
+	</section>
+
+
 </body>
+
 </html>
