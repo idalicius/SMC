@@ -49,7 +49,7 @@ function MM_swapImage() { //v3.0
 <body bgcolor="#000000" onLoad="MM_preloadImages('informes.jpg','catalogos.jpg','utilerias.jpg','informeurbano.jpg','informeuburbano.jpg','informerural.jpg','informecedula.jpg')">
 <div align="center"><center>
 
-  <div id="Layer1" style="position:absolute; width:35px; height:30px; z-index:1; left: 284px; top: 573px;"><img src="eff2_07.gif" width="28" height="28"></div>
+  <div id="Layer1" style="position:absolute; width:35px; height:30px; z-index:1; left: 284px; top: 573px;"><img src="images/catastro/eff2_07.gif" width="28" height="28"></div>
   <table border="0" cellpadding="0" cellspacing="0" width="929">
     <tr>
         <td><h2 align="right"><span class="Estilo5"><strong>
@@ -78,31 +78,31 @@ function MM_swapImage() { //v3.0
                         <td bgcolor="#000000"><p align="center" class="Estilo4">&nbsp;</p>
                           <form name="form1" method="post" action="file:///F|/RESIDENCIAS/PROYECTO%20KAREN/www/SOLICITUD.php">
                             <div align="center">                              
-                              <p><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMEURBANO','','informeurbano.jpg',1)"><img src="informeurbano.jpg" name="INFORMEURBANO" width="236" height="51" border="0"></a></p>
+                              <p><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMEURBANO','','informeurbano.jpg',1)"><img src="images/catastro/informeurbano.jpg" name="INFORMEURBANO" width="236" height="51" border="0"></a></p>
                               <p>&nbsp;</p>
                             </div>
                           </form>                          
                           <form name="form2" method="post" action="file:///F|/RESIDENCIAS/PROYECTO%20KAREN/www/buscar_alumnos.php">
                             <div align="center">                              
-                              <p class="Estilo4"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMESUBURBANO','','informeuburbano.jpg',1)"><img src="informeuburbano.jpg" name="INFORMESUBURBANO" width="238" height="53" border="0"></a></p>
+                              <p class="Estilo4"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMESUBURBANO','','informeuburbano.jpg',1)"><img src="images/catastro/informeuburbano.jpg" name="INFORMESUBURBANO" width="238" height="53" border="0"></a></p>
                               <p class="Estilo4">&nbsp;</p>
                             </div>
                           </form>                          
                           <form name="form3" method="post" action="file:///F|/RESIDENCIAS/PROYECTO%20KAREN/www/ACTUALIZAR.php">
                             <div align="center">                              
-                              <p><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMERURAL','','informerural.jpg',1)"><img src="informerural.jpg" name="INFORMERURAL" width="236" height="56" border="0"></a></p>
+                              <p><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMERURAL','','informerural.jpg',1)"><img src="images/catastro/informerural.jpg" name="INFORMERURAL" width="236" height="56" border="0"></a></p>
                               <p>&nbsp;</p>
                             </div>
                           </form>                          
                           <form name="form4" method="post" action="">
-                            <div align="center"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMECEDULA','','informecedula.jpg',1)"><img src="informecedula.jpg" name="INFORMECEDULA" width="236" height="54" border="0"></a></div>
+                            <div align="center"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMECEDULA','','informecedula.jpg',1)"><img src="images/catastro/informecedula.jpg" name="INFORMECEDULA" width="236" height="54" border="0"></a></div>
                           </form>                          <p align="center" class="Estilo6">&nbsp;</p>
                           </td>
                     </tr>
                     <tr>
                         <td><!--webbot bot="HTMLMarkup"
                         startspan -->
-                          <p align="center">                              <img src="Captura.PNG" width="130" height="62">
+                          <p align="center">                              <img src="images/catastro/Captura.PNG" width="130" height="62">
                               <!--webbot
                         bot="HTMLMarkup" endspan -->
                           </p>                          </td>
@@ -110,7 +110,7 @@ function MM_swapImage() { //v3.0
                 </table>
                  </center></div></td>
                 <td width="456" valign="top"><p align="center">&nbsp;</p>
-                  <p align="center"><img src="loho.gif" width="434" height="422"></p>
+                  <p align="center"><img src="images/catastro/loho.gif" width="434" height="422"></p>
                   <form name="form6" method="post" action="bienvenidos.php">
                     <div align="center">
                       <input type="submit" name="Submit2" value="INICIO">
@@ -146,7 +146,7 @@ function MM_swapImage() { //v3.0
                     </tr>
                     <tr>
                         <td height="293"><p>&nbsp;</p>
-                          <p align="center"><img src="VER.jpg" width="160" height="173"></p>
+                          <p align="center"><img src="images/catastro/VER.jpg" width="160" height="173"></p>
                           </td>
                     </tr>
                 </table>

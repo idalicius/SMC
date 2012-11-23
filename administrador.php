@@ -26,13 +26,13 @@ body {
   <tr>
     <td height="75" valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><table width="100%" height="194"  border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
       <tr bgcolor="#669900">
-        <td width="284" height="245" rowspan="3" bordercolor="#FFFFFF" bgcolor="#333333"><div align="center"><img src="Veracruz_Logo.jpg" width="268" height="263"></div></td>
+        <td width="284" height="245" rowspan="3" bordercolor="#FFFFFF" bgcolor="#333333"><div align="center"><img src="images/catastro/Veracruz_Logo.jpg" width="268" height="263"></div></td>
         <td width="680" height="65" valign="top" bordercolor="#FFFFFF" bgcolor="#000000"> <h2 align="center">&nbsp;</h2>
           <h2 align="center"><span class="Estilo2"><strong>DIRECI&Oacute;N DE CATASTRO MUNICIPAL </strong></span></h2>
           <h3 align="center" class="Estilo2"><strong>JES&Uacute;S CARRANZA, VER</strong></h3>
           <p align="center">&nbsp;</p>
           </td>
-        <td width="284" height="204" rowspan="3" bgcolor="#333333"><div align="center"><img src="Veracruz_Logo.jpg" width="262" height="265"></div></td>
+        <td width="284" height="204" rowspan="3" bgcolor="#333333"><div align="center"><img src="images/catastro/Veracruz_Logo.jpg" width="262" height="265"></div></td>
       </tr>
       <tr>
         <td bgcolor="#FF0000"><p align="center" class="Estilo3">BENITO JUAREZ S/N, COL. CENTRO, JESUS CARRANZA,VER.. </p></td>

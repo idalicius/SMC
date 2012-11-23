@@ -163,7 +163,7 @@ body {
     <input type="submit" name="Submit" value="SALIR">  
     </form>
   <div id="Layer2" style="position:absolute; width:159px; height:46px; z-index:2; left: 715px; top: 648px;">
-    <p align="left" class="Estilo11"><img src="pinwhl4.gif" width="34" height="34"><span class="Estilo13"> HACIENDO USO DEL SISTEMA ... </span></p>
+    <p align="left" class="Estilo11"><img src="images/catastro/pinwhl4.gif" width="34" height="34"><span class="Estilo13"> HACIENDO USO DEL SISTEMA ... </span></p>
   </div>
   <p>&nbsp;</p>
   <p>&nbsp;</p>

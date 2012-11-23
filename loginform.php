@@ -243,8 +243,8 @@
     <div id="frm-login">
 	   <div id="frm-header" >
 		  <div id="frm-logo">
-			 <!--img src="images/ferozo_logo.png" /-->
-			 <img src="show-logo.aspx?logoname=logo-simple" alt="" />
+			 <!--img src="images/catastro/images/ferozo_logo.png" /-->
+			 <img src="images/catastro/show-logo.aspx?logoname=logo-simple" alt="" />
 		  </div>
 		  <div id="frm-tab"></div>
 		  <div class="clear"></div>

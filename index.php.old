@@ -65,22 +65,22 @@ MM_reloadPage(true);
                               <param name="movie" value="button1.swf">
                               <param name="quality" value="high">
                               <param name="bgcolor" value="#000000">
-                              <embed src="./images/catrastro/button1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="107" height="18" bgcolor="#000000"></embed>
+                              <embed src="images/catastro/button1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="107" height="18" bgcolor="#000000"></embed>
                             </object>
                           </p>
-                          <p align="center" class="Estilo4"><img src="./images/catrastro/./images/catrastro/Ball-05.gif" width="73" height="73"></p>                          
+                          <p align="center" class="Estilo4"><img src="images/catastro/Ball-05.gif" width="73" height="73"></p>                          
                           <p align="center">&nbsp;</p>
                           </td>
                     </tr>
                     <tr>
-                        <td height="329"><img src="./images/catrastro/./images/catrastro/Captura3.PNG" width="140" height="67">
-                          <div id="Layer1" style="position:absolute; width:78px; height:51px; z-index:1; left: 263px; top: 548px;"><img src="./images/catrastro/bandera_animada_Mexico.gif" width="64" height="39"></div>                          
+                        <td height="329"><img src="images/catastro/Captura3.PNG" width="140" height="67">
+                          <div id="Layer1" style="position:absolute; width:78px; height:51px; z-index:1; left: 263px; top: 548px;"><img src="images/catastro/bandera_animada_Mexico.gif" width="64" height="39"></div>                          
                           <p>&nbsp;</p>                          </td>
                     </tr>
                 </table>
                 </center></div></td>
                 <td valign="top"><p align="center">&nbsp;</p>
-                  <p align="center"><img src="./images/catrastro/loho.gif" width="434" height="443"></p>
+                  <p align="center"><img src="images/catastro/loho.gif" width="434" height="443"></p>
                   <p align="center"><font color="#FFFFFF" size="2"><a href="acercade.php">Copyright
                     2012 - SALOMON MEJIA CORONA. DERECHOS RESERVADOS.</a></font></p>
                   </td>
@@ -103,7 +103,7 @@ MM_reloadPage(true);
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
-                        <td height="267"><p><img src="./images/catrastro/Captura2.PNG" width="145" height="75"></p>
+                        <td height="267"><p><img src="images/catastro/Captura2.PNG" width="145" height="75"></p>
                           <p>&nbsp;</p>                          </td>
                     </tr>
                 </table>

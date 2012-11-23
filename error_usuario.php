@@ -22,7 +22,7 @@ body {
   <tr>
     <td height="75" valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><table width="100%" height="214"  border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
       <tr bgcolor="#669900">
-        <td width="269" height="245" rowspan="3" bordercolor="#FFFFFF" bgcolor="#999999"><div align="center"><img src="ERROR1.gif" width="240" height="240"></div></td>
+        <td width="269" height="245" rowspan="3" bordercolor="#FFFFFF" bgcolor="#999999"><div align="center"><img src="images/catastro/ERROR1.gif" width="240" height="240"></div></td>
         <td width="710" height="65" valign="top" bordercolor="#FFFFFF" bgcolor="#333333"> <h1 align="center"><span class="Estilo7"><strong>
           <marquee>
           </marquee>
@@ -31,7 +31,7 @@ body {
             <marquee>
           &quot;ESTIMADO USUARIO VUELVE A INTENTARLO&quot;            </marquee>
           </strong></span></h1></td>
-        <td width="269" height="204" rowspan="3" bgcolor="#999999"><div align="center"><img src="errorOP.gif" width="137" height="147"></div></td>
+        <td width="269" height="204" rowspan="3" bgcolor="#999999"><div align="center"><img src="images/catastro/errorOP.gif" width="137" height="147"></div></td>
       </tr>
       <tr>
         <td bgcolor="#333333">&nbsp;</td>

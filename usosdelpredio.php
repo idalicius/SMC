@@ -920,7 +920,7 @@ body {
   <form name="form1" method="post" action="index.php">
     <input type="submit" name="Submit" value="SALIR">
     <div id="Layer2" style="position:absolute; width:159px; height:46px; z-index:2; left: 723px; top: 857px;">
-      <p align="left" class="Estilo14"><img src="pinwhl4.gif" width="34" height="34"><span class="Estilo13"> HACIENDO USO DEL SISTEMA ... </span></p>
+      <p align="left" class="Estilo14"><img src="images/catastro/pinwhl4.gif" width="34" height="34"><span class="Estilo13"> HACIENDO USO DEL SISTEMA ... </span></p>
     </div>
   </form>
   <p>&nbsp;</p>

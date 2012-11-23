@@ -52,7 +52,7 @@ content="text/html; charset=iso-8859-1">
                     <tr>
                         <td><p align="center" class="Estilo4">&nbsp;</p>
                           <p align="center" class="Estilo4">&nbsp;</p>
-                          <p align="center" class="Estilo4"><img src="Ball-05.gif" width="73" height="73"></p>                          
+                          <p align="center" class="Estilo4"><img src="images/catastro/Ball-05.gif" width="73" height="73"></p>                          
                           <p align="center">&nbsp;</p>
                           </td>
                     </tr>
@@ -90,7 +90,7 @@ content="text/html; charset=iso-8859-1">
                           <p align="center">&nbsp;</p></td>
                     </tr>
                     <tr>
-                        <td bordercolor="#000000"><p align="justify" class="Estilo4"><img src="salomon.jpg" width="141" height="90"></p>                        </td>
+                        <td bordercolor="#000000"><p align="justify" class="Estilo4"><img src="images/catastro/salomon.jpg" width="141" height="90"></p>                        </td>
                     </tr>
                     <tr>
                         <td bgcolor="#000000"><p align="center">&nbsp;</p>                        </td>

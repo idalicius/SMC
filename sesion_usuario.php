@@ -71,12 +71,12 @@ body,td,th {
   <tr>
     <td height="75" valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><table width="100%" height="194"  border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
       <tr bgcolor="#669900">
-        <td width="250" height="245" rowspan="3" bordercolor="#FFFFFF" bgcolor="#333333"><div align="center"><img src="logo.jpg" width="200" height="220"></div></td>
+        <td width="250" height="245" rowspan="3" bordercolor="#FFFFFF" bgcolor="#333333"><div align="center"><img src="images/catastro/logo.jpg" width="200" height="220"></div></td>
         <td width="748" height="65" valign="top" bordercolor="#FFFFFF" bgcolor="#000000"> <h2 align="center">&nbsp;</h2>
           <h2 align="center"><span class="Estilo1"><strong>DIRECCI&Oacute;N DE CATASTRO MUNCIPAL </strong></span></h2>          <h3 align="center" class="Estilo1"><strong>JES&Uacute;S CARRANZA,VER. </strong></h3>
           <h3 align="center" class="Estilo3">&nbsp;</h3>          
           <h1>&nbsp;</h1></td>
-        <td width="250" height="204" rowspan="3" bgcolor="#333333"><div align="center"><img src="logo.jpg" width="200" height="220"></div></td>
+        <td width="250" height="204" rowspan="3" bgcolor="#333333"><div align="center"><img src="images/catastro/logo.jpg" width="200" height="220"></div></td>
       </tr>
       <tr>
         <td bgcolor="#FF0000"><div align="center" class="Estilo2">BENITO JUAREZ S/N COL. CENTRO JES&Uacute;S CARRANZA,VER. </div></td>

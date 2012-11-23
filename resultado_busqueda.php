@@ -46,13 +46,13 @@ a:active {
         <td width="570" rowspan="4" valign="middle" nowrap bgcolor="#000000" class="blanco"><div align="center">
             <h2>libreria virtual. tu comprar desde casa .</h2>
         </div></td>
-        <td width="216" height="33" valign="top" class="fondo"><a href="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/index.php"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/inicio.jpg" alt="inicio" width="216" height="33" border="0"></a></td>
+        <td width="216" height="33" valign="top" class="fondo"><a href="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/index.php"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/inicio.jpg" alt="inicio" width="216" height="33" border="0"></a></td>
       </tr>
       <tr>
-        <td height="33" valign="top" class="fondo"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/libros.jpg" alt="libros" width="216" height="33" border="0"></td>
+        <td height="33" valign="top" class="fondo"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/libros.jpg" alt="libros" width="216" height="33" border="0"></td>
       </tr>
       <tr>
-        <td height="33" valign="top" class="fondo"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/contacto.jpg" alt="contacto" width="216" height="33"></td>
+        <td height="33" valign="top" class="fondo"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/contacto.jpg" alt="contacto" width="216" height="33"></td>
       </tr>
       <tr>
         <td height="1" bgcolor="#000000"></td>
@@ -65,7 +65,7 @@ a:active {
       <tr>
         <td width="151" height="100" valign="top" bgcolor="#CCCCCC"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
           <tr>
-            <td align="center" nowrap bgcolor="#000000"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" width="50" height="1"></td>
+            <td align="center" nowrap bgcolor="#000000"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" width="50" height="1"></td>
           </tr>
           <tr>
             <td align="left" nowrap bgcolor="#FF9933" class="blanco"><strong>Acceso r&aacute;pido </strong></td>
@@ -78,7 +78,7 @@ a:active {
                                           </form>              </td>
           </tr>
           <tr>
-            <td align="right" bgcolor="#000000"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" width="50" height="1"></td>
+            <td align="right" bgcolor="#000000"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" width="50" height="1"></td>
           </tr>
           <tr>
             <td align="left" class="fondo"><strong class="blanco">Tienda</strong></td>
@@ -88,7 +88,7 @@ a:active {
           </tr>
           
           <tr>
-            <td align="left" bgcolor="#000000"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" width="100" height="1"></td>
+            <td align="left" bgcolor="#000000"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" width="100" height="1"></td>
           </tr>
           <tr>
             <td align="left" class="fondo"><strong class="blanco">Empresa</strong></td>
@@ -130,8 +130,8 @@ a:active {
           <p>&nbsp;</p>
           <blockquote>&nbsp;</blockquote>
           <!-- InstanceEndEditable --></td>
-      </tr><tr><td height="1" bgcolor="#CCCCCC"><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" alt="" width="150" height="1" /></td>
-      <td><img src="file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" alt="" width="12" height="1" /></td><td></td></tr>
+      </tr><tr><td height="1" bgcolor="#CCCCCC"><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" alt="" width="150" height="1" /></td>
+      <td><img src="images/catastro/file:///G|/RESIDENCIAS/Video%20Tutoriales.es/curso-dreamweaver-php/varios/imagenes/spacer.gif" alt="" width="12" height="1" /></td><td></td></tr>
     </table></td>
   </tr>
   <tr>

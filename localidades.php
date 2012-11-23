@@ -759,7 +759,7 @@ MM_reloadPage(true);
   </form>
   <p>&nbsp;</p>
   <div id="Layer2" style="position:absolute; width:159px; height:46px; z-index:2; left: 728px; top: 541px;">
-    <p align="left" class="Estilo2"><img src="pinwhl4.gif" width="34" height="34"><span class="Estilo21"> HACIENDO USO DEL SISTEMA ... </span></p>
+    <p align="left" class="Estilo2"><img src="images/catastro/pinwhl4.gif" width="34" height="34"><span class="Estilo21"> HACIENDO USO DEL SISTEMA ... </span></p>
   </div>
   <p>&nbsp;</p>
 </div>

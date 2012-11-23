@@ -52,9 +52,9 @@ content="text/html; charset=iso-8859-1">
                     </tr>
                     <tr>
                         <td><p align="center" class="Estilo4">&nbsp;</p>
-                          <p align="center" class="Estilo4"><a href="administrador.php"><img src="400_F_30794096_JOTJL5G63kbMMSrtYJnzVk4KXbMsUGVd.jpg" width="122" height="30" border="0"></a></p>
+                          <p align="center" class="Estilo4"><a href="administrador.php"><img src="images/catastro/400_F_30794096_JOTJL5G63kbMMSrtYJnzVk4KXbMsUGVd.jpg" width="122" height="30" border="0"></a></p>
                           <p align="center" class="Estilo4"><a href="administrador.php" class="Estilo4">INGRESAR</a></p>                          
-                          <p align="center"><img src="Ball-05.gif" width="73" height="73"></p>
+                          <p align="center"><img src="images/catastro/Ball-05.gif" width="73" height="73"></p>
                           <p align="center">&nbsp;</p>
                           <p align="center">&nbsp;</p>
                           </td>
@@ -62,7 +62,7 @@ content="text/html; charset=iso-8859-1">
                     <tr>
                         <td height="353"><!--webbot bot="HTMLMarkup"
                         startspan -->
-                          <p align="center"><img src="Captura3.PNG" width="140" height="67"></p>
+                          <p align="center"><img src="images/catastro/Captura3.PNG" width="140" height="67"></p>
                           <p>&nbsp;</p>                          </td>
                     </tr>
                 </table>
@@ -95,7 +95,7 @@ content="text/html; charset=iso-8859-1">
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
-                        <td height="267"><p><img src="Captura2.PNG" width="145" height="75"></p>
+                        <td height="267"><p><img src="images/catastro/Captura2.PNG" width="145" height="75"></p>
                           <p>&nbsp;</p>                          </td>
                     </tr>
                 </table>

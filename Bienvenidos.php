@@ -85,24 +85,24 @@ MM_reloadPage(true);
                     </tr>
                     <tr>
                         <td height="467" bgcolor="#000000"><form name="form1" method="post" action="">
-                                <p align="center"><a href="actualizaciones.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ACTUALIZACIONES','','actualizaciones.jpg',1)"><img src="actualizaciones.jpg" name="ACTUALIZACIONES" width="49" height="47" border="0"></a>A</p>
+                                <p align="center"><a href="actualizaciones.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ACTUALIZACIONES','','actualizaciones.jpg',1)"><img src="images/catastro/actualizaciones.jpg" name="ACTUALIZACIONES" width="49" height="47" border="0"></a>A</p>
                                 <p align="center"><span class="Estilo4">ACTUALIZACIONES</span> S </p>
                           </form>                          
                           <form name="form2" method="post" action="">
                             <div align="center">                              
-                              <p class="Estilo4"><a href="informes.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMES','','informes.jpg',1)"><img src="informes.jpg" name="INFORMES" width="45" height="45" border="0"></a></p>
+                              <p class="Estilo4"><a href="informes.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('INFORMES','','informes.jpg',1)"><img src="images/catastro/informes.jpg" name="INFORMES" width="45" height="45" border="0"></a></p>
                               <p class="Estilo4">INFORMES </p>
                             </div>
                           </form>                          
                           <form name="form3" method="post" action="">
                             <div align="center">                              
-                              <p><a href="catalogos.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('CATALOGOS','','catalogos.jpg',1)"><img src="catalogos.jpg" name="CATALOGOS" width="42" height="42" border="0"></a></p>
+                              <p><a href="catalogos.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('CATALOGOS','','catalogos.jpg',1)"><img src="images/catastro/catalogos.jpg" name="CATALOGOS" width="42" height="42" border="0"></a></p>
                               <p class="Estilo4">CATALOGOS </p>
                             </div>
                           </form>                          
                           <form name="form4" method="post" action="">
                             <div align="center">                              
-                              <p class="Estilo4"><a href="utilerias.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('UTILERIAS','','utilerias.jpg',1)"><img src="utilerias.jpg" name="UTILERIAS" width="45" height="44" border="0"></a></p>
+                              <p class="Estilo4"><a href="utilerias.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('UTILERIAS','','utilerias.jpg',1)"><img src="images/catastro/utilerias.jpg" name="UTILERIAS" width="45" height="44" border="0"></a></p>
                               <p class="Estilo4">UTILERIAS </p>
                             </div>
                           </form>                          </td>
@@ -110,14 +110,14 @@ MM_reloadPage(true);
                     <tr>
                         <td height="83"><!--webbot bot="HTMLMarkup"
                         startspan -->
-                          <p align="center">                                <img src="Captura.PNG" width="130" height="62"><!--webbot
+                          <p align="center">                                <img src="images/catastro/Captura.PNG" width="130" height="62"><!--webbot
                         bot="HTMLMarkup" endspan -->
 </p>                          </td>
                     </tr>
                 </table>
                  </center></div></td>
                 <td width="434" valign="top"><p align="center">&nbsp;</p>
-                  <p align="center"><img src="loho.gif" width="434" height="423"></p>
+                  <p align="center"><img src="images/catastro/loho.gif" width="434" height="423"></p>
                   <form name="form6" method="post" action="bienvenidos.php">
                     <div align="center">                    </div>
                   </form>                  
@@ -138,7 +138,7 @@ MM_reloadPage(true);
                     <tr>
                         <td><p align="center">&nbsp;</p>
                           <p align="center">&nbsp;</p>                          
-                          <div id="Layer1" style="position:absolute; width:35px; height:30px; z-index:1; left: 305px; top: 572px;"><img src="eff2_07.gif" width="28" height="28"></div></td>
+                          <div id="Layer1" style="position:absolute; width:35px; height:30px; z-index:1; left: 305px; top: 572px;"><img src="images/catastro/eff2_07.gif" width="28" height="28"></div></td>
                     </tr>
                     <tr>
                         <td bgcolor="#808080"><p align="center">&nbsp;</p>
@@ -149,7 +149,7 @@ MM_reloadPage(true);
                           </td>
                     </tr>
                     <tr>
-                        <td height="352"><p align="center"><img src="VER.jpg" width="160" height="173"></p>                          </td>
+                        <td height="352"><p align="center"><img src="images/catastro/VER.jpg" width="160" height="173"></p>                          </td>
                     </tr>
                 </table>
                 </center></div></td>
