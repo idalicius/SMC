@@ -1,0 +1,12 @@
+
+ACTUALIZACIONES: en los 3 botones ke estan dentro de ACTUALIZACIONES urbano, sin cartografia y rural quiero ke BUSQUE por numero de CUENTA CATASTRAL ejemplo: 08-092-056-01-023-007-00-000; delegacion, municipio, localidad region, manzana lote, nivel y departamento, asi es el orden. y ke tambien buske  por NOMBRE ejemplo: RAMIREZ LOPEZ ANDRES, altas,cambios y baja del registro. nesesario ke tenga barra de navegacion ke muestre el primer registro, pagina siguiente, anterior y ultimo.
+
+
+INFORMES:en cada uno de los botones debe mostrar CUENTA, RANGO DE CUENTAS Y CUENTAS CAPTURADAS para cada uno de los tipos de predios de la base de datos, tanto para urbano, sin cartografia y rural;excepto para CEDULA en la cual se debe ingresar cuenta catastral, indicar si la cuenta esta capturada o por capturar, tipo de predio: urbano, sin cartografia y rural. posteriormente si se notifica el registro y valor a: solicitud de registro catastral, incorporacion al sistema catastral y actualizacion de la informacion catastral; de manera seguida a instancia de: del propietario o poseedor o de la autoridad catastral. y por ultimo tipo de valor: valor catastral o valor catastral provisional. este formato debe capturar para despues mandarlo a imprimir, ya lo tengo lo escaneo y se lo envio.
+
+CATALOGOS: ESA PARTE DE FAVOR YA NO MODIFICAR.SOLO ES PARA MOSTRAR INFORMACION.
+
+UTILERIAS: reordenar datos, respaldos(generar archivos), contar movimientos, envio de informacion (en un archivo ke muestre la informacion de los predios) parametros del sistema(dar de alta, cambio o baja de un nuevo usuario del sistema), calculo para predios (urbano catastrado, sin cartografia y rural) donde debo de obtener valor del terreno, de la construccion y valor catastral(valor catastral=v. terreno + v. construccion).
+
+PENDIENTES:
+ficha catastral y cedula catastral
